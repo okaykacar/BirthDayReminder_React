@@ -1,6 +1,12 @@
-## BirthDayReminder_React
+# BirthDayReminder_React
+
+
+
+
 
 This repo is a simple birthday reminder in React. This project has a button that clear all birthdays. Design will be updated.
+
+**React,Javascript,Css,Html** 
 
 
 
